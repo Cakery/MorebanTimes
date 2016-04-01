@@ -9,7 +9,7 @@
 // ==/UserScript==
 $("head").append (
     '<link '
-  + 'href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/le-frog/jquery-ui.min.css" '
+  + 'href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css" '
   + 'rel="stylesheet" type="text/css">'
 );
 $(document).ready(function(){
